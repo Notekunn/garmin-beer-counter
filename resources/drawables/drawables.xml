@@ -1,0 +1,7 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png"/>
+    <bitmap id="IconClock" filename="icon_clock.png"/>
+    <bitmap id="IconRate" filename="icon_rate.png"/>
+    <bitmap id="IconHeart" filename="icon_heart.png"/>
+    <bitmap id="IconStress" filename="icon_stress.png"/>
+</drawables>
